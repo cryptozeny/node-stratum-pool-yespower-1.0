@@ -28,7 +28,7 @@
         "url": "https://github.com/cryptozeny/node-stratum-pool-yespower-1.0.git"
     },
     "dependencies": {
-        "multi-hashing": "https://github.com/cryptozeny/node-sugarchain-yespower.git",
+        "multi-hashing": "git://github.com/cryptozeny/node-multi-hashing-yespower-1.0.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
